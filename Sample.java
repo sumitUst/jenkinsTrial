@@ -1,6 +1,6 @@
 class Sample
 {
-  public static void main(Strfing args[])
+  public static void main(String args[])
   {
     System.out.ptintln("Hello class");
   }
